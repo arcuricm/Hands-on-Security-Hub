@@ -110,6 +110,7 @@
   "Mappings" : {
     "AWSInstanceType2Arch" : {
       "t1.micro"    : { "Arch" : "HVM64"  },
+      "t3.micro"    : { "Arch" : "HVM64"  },
       "t2.nano"     : { "Arch" : "HVM64"  },
       "t2.micro"    : { "Arch" : "HVM64"  },
       "t2.small"    : { "Arch" : "HVM64"  },
@@ -166,6 +167,7 @@
 
     "AWSInstanceType2NATArch" : {
       "t1.micro"    : { "Arch" : "NATHVM64"  },
+      "t3.micro"    : { "Arch" : "NATHVM64"  },
       "t2.nano"     : { "Arch" : "NATHVM64"  },
       "t2.micro"    : { "Arch" : "NATHVM64"  },
       "t2.small"    : { "Arch" : "NATHVM64"  },
